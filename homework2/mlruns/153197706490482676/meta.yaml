@@ -1,0 +1,6 @@
+artifact_location: file:///home/vijaykrishnan/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/153197706490482676
+creation_time: 1685621767918
+experiment_id: '153197706490482676'
+last_update_time: 1685621767918
+lifecycle_stage: active
+name: random-forest-experiment
